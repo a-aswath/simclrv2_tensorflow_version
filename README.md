@@ -43,7 +43,7 @@ These checkpoints are stored in Google Cloud Storage:
   * [gs://simclr-checkpoints/simclrv2/distill_1pct](https://console.cloud.google.com/storage/browser/simclr-checkpoints/simclrv2/distill_1pct)
   * [gs://simclr-checkpoints/simclrv2/distill_10pct](https://console.cloud.google.com/storage/browser/simclr-checkpoints/simclrv2/distill_10pct)
 
-We also provide examples on how to use the checkpoints in `colabs/` folder.
+We also provide examples on how to use the checkpoints in `colabs/` folder. Load_and_inference.py
 
 ## Pre-trained models for SimCLRv1
 
